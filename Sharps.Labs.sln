@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Generators", "Task1\uniSharps.Lab1.Class\Task1.Generators.csproj", "{93EB7AF9-769A-237F-C7CB-2BE88714ECD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.App", "Task1\uniSharps.Lab1.App\Task1.App.csproj", "{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EB7AF9-769A-237F-C7CB-2BE88714ECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EB7AF9-769A-237F-C7CB-2BE88714ECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EB7AF9-769A-237F-C7CB-2BE88714ECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EB7AF9-769A-237F-C7CB-2BE88714ECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{93EB7AF9-769A-237F-C7CB-2BE88714ECD3} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6F19D177-8CBE-91DF-CCA4-9E01D5E8F89E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EB99A0-259C-4CB0-8A46-88D10C9CA173}
+	EndGlobalSection
+EndGlobal
